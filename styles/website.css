@@ -1,0 +1,119 @@
+/* CSS for website */
+/* @font-face {
+@import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
+font-family: Inconsolata;
+src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
+}*/
+
+header {
+    font-family: Inconsolata;
+    background: #00a9d0;
+    margin-bottom: 30px;
+    padding: 25px 0px;
+}
+
+h1 {
+    font-family: Inconsolata;
+    color: #ffffff;
+    background: #00a9d0;
+	text-align: center;
+}
+
+h2 {
+    font-family: Inconsolata;
+    color: #00a9d0;
+}
+
+h3 {
+    font-family: Inconsolata;
+    color: #00a9d0;
+}
+
+h4 {
+    font-family: Inconsolata;
+    color: #00a9d0;
+}
+
+table {
+    background: #ffffff;
+    color: #777;
+    display:block;
+    margin:0 auto 0 auto;
+    text-align: center;
+}
+
+thead{
+    font-family: Inconsolata;
+    color: #000000;
+}
+
+td, th {
+    font-family: Inconsolata;
+    border-collapse: collapse;
+    margin:auto;
+    border-spacing: 0;
+    padding: 15px 5px;
+    /*display: table-cell;*/
+    text-align: center;
+    vertical-align: center;
+}
+
+img {
+    width: 35%;
+    border-radius: 5px;
+    vertical-align: center;
+    text-align: center;
+    vertical-align: center;
+    display:block;
+    margin:0 auto 0 auto;
+}
+
+blockquote {
+    font-family: Inconsolata;
+    border-left: 4px solid #f5f5f5;
+    padding: 0 15px;
+    color: #777;
+}
+
+ul {
+    font-family: Inconsolata;
+    color: #7C7C7C;
+    text-align : justify;
+}
+
+li {
+    font-family: Inconsolata;
+    color: #7C7C7C;
+    text-align : justify;
+}
+
+ol{
+    font-family: Inconsolata;
+    color: #7C7C7C;
+    text-align : justify;
+}
+
+a {
+    font-family: Inconsolata;
+    color:  #666699;
+}
+
+p {
+    font-family: Inconsolata;
+    text-align : justify;
+}
+
+i {
+    font-family: Inconsolata;
+    color: #7C7C7C;
+}
+
+pre{
+    font-family: Inconsolata;
+    background-color: #000000;
+}
+
+code{
+    font-family: Inconsolata;
+    background-color: #CFD8DC;
+}
