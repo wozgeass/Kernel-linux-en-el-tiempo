@@ -20,6 +20,12 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.4 | 4 January 2001 |
 | 2.5 | 23 November 2001 |
 | 2.6 | 18 Dicember 2003 |
+| 2.6.1  | Por verificar |
+| 2.6.2  | Por verificar |
+| 2.6.3  | Por verificar |
+| 2.6.4  | Por verificar |
+| 2.6.5  | Por verificar |
+| 2.6.6  | Por verificar |
 | 2.6.25 | 16 April 2008 |
 | 2.6.26 | 13 July 2008 |
 | 2.6.27 | 9 October 2008 |
