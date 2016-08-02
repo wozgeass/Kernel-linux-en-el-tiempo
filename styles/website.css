@@ -44,7 +44,8 @@ table {
 
 thead{
     font-family: Inconsolata;
-    color: #FFFFFF;
+    color: #FFFFF;
+    background: 00a9d0;
 }
 
 td, th {
