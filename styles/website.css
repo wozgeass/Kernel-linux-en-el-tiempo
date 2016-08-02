@@ -1,9 +1,9 @@
 /* CSS for website */
-/* @font-face {
+@font-face {
 @import url(https://fonts.googleapis.com/css?family=Inconsolata&subset=latin,latin-ext);
 font-family: Inconsolata;
 src: url (Fuentes/Inconsolata.otf) format(‘opentype’);
-}*/
+}
 
 header {
     font-family: Inconsolata;
