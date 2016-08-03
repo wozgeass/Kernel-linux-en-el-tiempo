@@ -5,18 +5,18 @@ Básicamente se trata de una recopilación de las características agregadas a l
 
 | Versión | Fecha |
 |--------|--------|
-|**0.01**|**17 September 1991**|
-| 0.2 | 4 October 1991 |
-| 0.11 | 8 Dicember 1991 |
-| 0.95 | 7 March 1992 |
-|**1.0**|**13 March 1994**|
-| 1.1 | 6 April 1994 |
-| 1.2 | 6 April 1995 |
-| 1.3 | 12 June 1995 |
-|**2.0**|**9 June 1996**|
-| 2.1 | 30 September 1996 |
-| 2.2 | 26 January 1999 |
-| 2.3 | 11 May 1999 |
+|**0.01**|**17 Septiembre 1991**|
+| 0.2 | 4 Octubre 1991 |
+| 0.11 | 8 Diciembre 1991 |
+| 0.95 | 7 Marzo 1992 |
+|**1.0**|**13 Marzo 1994**|
+| 1.1 | 6 Abril 1994 |
+| 1.2 | 6 Abril 1995 |
+| 1.3 | 12 Junio 1995 |
+|**2.0**|**9 Junio 1996**|
+| 2.1 | 30 Septiembre 1996 |
+| 2.2 | 26 Enero 1999 |
+| 2.3 | 11 Mayo 1999 |
 | 2.4 | 4 January 2001 |
 | 2.5 | 23 November 2001 |
 | 2.6 | 18 Dicember 2003 |
