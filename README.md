@@ -28,13 +28,13 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.6.6  | 10 de Mayo 2004 |
 | 2.6.7 | 16 de Junio 2004 |
 | 2.6.8 | 14 de Agosto 2004 |
-| 2.6.9 |  |
-| 2.6.10 | Por verificar |
-| 2.6.11 | Por verificar |
-| 2.6.12 | Por verificar |
-| 2.6.13 | Por verificar |
-| 2.6.14 | Por verificar |
-| 2.6.15 | Por verificar |
+| 2.6.9 | 19 de Octubre 2004 |
+| 2.6.10 | 24 de Diciembre 2004 |
+| 2.6.11 | 2 de Marzo 2006 |
+| 2.6.12 | 17 de Junio 2005 |
+| 2.6.13 | 29 de Agosto 2005 |
+| 2.6.14 | 27 de Octubre 2005 |
+| 2.6.15 | 3 de Enero 2006 |
 | 2.6.16 | Por verificar |
 | 2.6.17 | Por verificar |
 | 2.6.18 | Por verificar |
