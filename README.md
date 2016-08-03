@@ -17,35 +17,53 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.1 | 30 Septiembre 1996 |
 | 2.2 | 26 Enero 1999 |
 | 2.3 | 11 Mayo 1999 |
-| 2.4 | 4 January 2001 |
-| 2.5 | 23 November 2001 |
-| 2.6 | 18 Dicember 2003 |
+| 2.4 | 4 Enero 2001 |
+| 2.5 | 23 Noviembre 2001 |
+| 2.6 | 18 Diciembre 2003 |
 | 2.6.1  | Por verificar |
 | 2.6.2  | Por verificar |
 | 2.6.3  | Por verificar |
 | 2.6.4  | Por verificar |
 | 2.6.5  | Por verificar |
 | 2.6.6  | Por verificar |
-| 2.6.25 | 16 April 2008 |
-| 2.6.26 | 13 July 2008 |
-| 2.6.27 | 9 October 2008 |
-| 2.6.28 | 25 Dicember 2008|
-| 2.6.29 | 24 March 2009 |
-| 2.6.30 | 9 June 2009 |
-| 2.6.31 | 9 September 2009 |
-| 2.6.32 | 3 Dicember 2009 |
-| 2.6.33 | 24 February 2010 |
-| 2.6.34 | 16 May 2010 |
-| 2.6.35 | 1 August 2010 |
-| 2.6.36 | 20 October 2010 |
-| 2.6.37 | 4 January 2011 |
-| 2.6.38 | 14 March 2011 |
-| 2.6.39 | 18 May 2011 |
-|**3.0**|**21 July 2011**|
-| 3.1 | 24 October 2011 |
-| 3.2 | 4 January 2012 |
-| 3.3 | 18 March 2012 |
-| 3.4 | 20 May 2012 |
+| 2.6.7 | Por verificar |
+| 2.6.8 | Por verificar |
+| 2.6.9 | Por verificar |
+| 2.6.10 | Por verificar |
+| 2.6.11 | Por verificar |
+| 2.6.12 | Por verificar |
+| 2.6.13 | Por verificar |
+| 2.6.14 | Por verificar |
+| 2.6.15 | Por verificar |
+| 2.6.16 | Por verificar |
+| 2.6.17 | Por verificar |
+| 2.6.18 | Por verificar |
+| 2.6.19 | Por verificar |
+| 2.6.20 | Por verificar |
+| 2.6.21 | Por verificar |
+| 2.6.22 | Por verificar |
+| 2.6.23 | Por verificar |
+| 2.6.24 | Por verificar |
+| 2.6.25 | 16 Abril 2008 |
+| 2.6.26 | 13 Julio 2008 |
+| 2.6.27 | 9 Octubre 2008 |
+| 2.6.28 | 25 Diciebre 2008|
+| 2.6.29 | 24 Marzo 2009 |
+| 2.6.30 | 9 Junio 2009 |
+| 2.6.31 | 9 Septiembre 2009 |
+| 2.6.32 | 3 Diciembre 2009 |
+| 2.6.33 | 24 Febrero 2010 |
+| 2.6.34 | 16 Mayo 2010 |
+| 2.6.35 | 1 Agosto 2010 |
+| 2.6.36 | 20 Octubre 2010 |
+| 2.6.37 | 4 Enero 2011 |
+| 2.6.38 | 14 Marzo 2011 |
+| 2.6.39 | 18 Mayo 2011 |
+|**3.0**|**21 Julio 2011**|
+| 3.1 | 24 Octubre 2011 |
+| 3.2 | 4 Enero 2012 |
+| 3.3 | 18 Marzo 2012 |
+| 3.4 | 20 Mayo 2012 |
 | 3.5 | 21 July 2012 |
 | 3.6 | 20 May 2012 |
 | 3.7 | 10 Dicember 2012 |
