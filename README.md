@@ -20,15 +20,15 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.4 | 4 de Enero 2001 |
 | 2.5 | 23 de Noviembre 2001 |
 | 2.6 | 18 de Diciembre 2003 |
-| 2.6.1  | Por verificar |
-| 2.6.2  | Por verificar |
-| 2.6.3  | Por verificar |
-| 2.6.4  | Por verificar |
-| 2.6.5  | Por verificar |
-| 2.6.6  | Por verificar |
-| 2.6.7 | Por verificar |
-| 2.6.8 | Por verificar |
-| 2.6.9 | Por verificar |
+| 2.6.1  | 9 de Enero 2004 |
+| 2.6.2  | 4 de Febrero 2004 |
+| 2.6.3  | 18 de Febrero 2004 |
+| 2.6.4  | 11 de Marzo 2004 |
+| 2.6.5  | 4 de Abril 2004 |
+| 2.6.6  | 10 de Mayo 2004 |
+| 2.6.7 | 16 de Junio 2004 |
+| 2.6.8 | 14 de Agosto 2004 |
+| 2.6.9 |  |
 | 2.6.10 | Por verificar |
 | 2.6.11 | Por verificar |
 | 2.6.12 | Por verificar |
