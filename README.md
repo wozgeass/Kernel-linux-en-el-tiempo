@@ -35,11 +35,11 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.6.13 | 29 de Agosto 2005 |
 | 2.6.14 | 27 de Octubre 2005 |
 | 2.6.15 | 3 de Enero 2006 |
-| 2.6.16 | Por verificar |
-| 2.6.17 | Por verificar |
-| 2.6.18 | Por verificar |
-| 2.6.19 | Por verificar |
-| 2.6.20 | Por verificar |
+| 2.6.16 | 20 de Marzo 2006 |
+| 2.6.17 | 17 de Junio 2006 |
+| 2.6.18 | 20 de Septiembre 2006 |
+| 2.6.19 | 19 de Noviembre 2006 |
+| 2.6.20 | 5 de Febrero 2007 |
 | 2.6.21 | Por verificar |
 | 2.6.22 | Por verificar |
 | 2.6.23 | Por verificar |
