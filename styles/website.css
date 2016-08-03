@@ -43,7 +43,7 @@ table {
     text-align: center;
 }
 
-thead{
+thead, th{
     background: #214bd0;
     border-top: 0.3em solid #00a9d0;
     background-color: #214bd0;
@@ -58,7 +58,7 @@ tbody {
     text-align: center;
 }
 
-td, th {
+td{
     font-family: Inconsolata;
     border-collapse: collapse;
     margin:auto;
