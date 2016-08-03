@@ -64,20 +64,25 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 3.2 | 4 Enero 2012 |
 | 3.3 | 18 Marzo 2012 |
 | 3.4 | 20 Mayo 2012 |
-| 3.5 | 21 July 2012 |
-| 3.6 | 20 May 2012 |
-| 3.7 | 10 Dicember 2012 |
-| 3.8 | 18 February 2013 |
-| 3.9 | 28 April 2013 |
-| 3.10 | 30 June 2013 |
-| 3.11 | 2 September 2013 |
-| 3.12 | 2 November 2013 |
-| 3.13 | 19 January 2014 |
-| 3.14 | 30 March 2014 |
-| 3.15 | 8 June 2014 |
-| 3.16 | 3 August 2014 |
-| 3.17 | 5 October 2014 |
-| 3.18 | 7 Dicember 2014 |
-| 3.19 | 8 February 2015 |
-|**4.0**|**12 April 2015**|
-| 4.1 | June 2015 |
+| 3.5 | 21 Julio 2012 |
+| 3.6 | 20 Mayo 2012 |
+| 3.7 | 10 Diciembre 2012 |
+| 3.8 | 18 Febrero2013 |
+| 3.9 | 28 Abril 2013 |
+| 3.10 | 30 Junio 2013 |
+| 3.11 | 2 Septiembre 2013 |
+| 3.12 | 2 Noviembre 2013 |
+| 3.13 | 19 Enero 2014 |
+| 3.14 | 30 Marzo 2014 |
+| 3.15 | 8 Junio 2014 |
+| 3.16 | 3 Agosto 2014 |
+| 3.17 | 5 Octubre 2014 |
+| 3.18 | 7 Diciembre 2014 |
+| 3.19 | 8 Febrero 2015 |
+|**4.0**|**12 Abril 2015**|
+| 4.1 | Junio 2015 |
+| 4.2 | Junio 2015 |
+| 4.3 | Junio 2016 |
+| 4.4 | Junio 2016 |
+| 4.5 | Junio 2016 |
+| 4.6 | Junio 2016 |
