@@ -35,14 +35,27 @@ h4 {
 }
 
 table {
+    background-color: #2185D0;
+    background: #2185D0;
+    color: #777;
+    display:block;
     margin:0 auto 0 auto;
     text-align: center;
 }
 
 thead{
+    background: #214bd0;
+    border-top: 0.3em solid #00a9d0;
+    background-color: #214bd0;
     font-family: Inconsolata;
-    color: #FFFFF;
-    background: 00a9d0;
+    color: #000000;
+    text-align: center;
+}
+
+tbody {
+    background-color: #2185D0;
+    background: #2185D0;
+    text-align: center;
 }
 
 td, th {
@@ -75,6 +88,7 @@ blockquote {
 
 ul {
     font-family: Inconsolata;
+    list-style-type: square;
     color: #7C7C7C;
     text-align : justify;
 }
@@ -85,7 +99,7 @@ li {
     text-align : justify;
 }
 
-ol{
+ol {
     font-family: Inconsolata;
     color: #7C7C7C;
     text-align : justify;
@@ -93,7 +107,7 @@ ol{
 
 a {
     font-family: Inconsolata;
-    color:  #666699;
+    color:  #2185D0;
 }
 
 p {
@@ -103,7 +117,12 @@ p {
 
 i {
     font-family: Inconsolata;
-    color: #7C7C7C;
+    color: #2185D0;
+}
+
+b {
+    font-family: Inconsolata;
+    color: #2185D0;
 }
 
 pre{
