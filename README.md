@@ -47,7 +47,7 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.6.25 | 16 de Abril 2008 |
 | 2.6.26 | 13 de Julio 2008 |
 | 2.6.27 | 9 de Octubre 2008 |
-| 2.6.28 | 25 de Diciebre 2008|
+| 2.6.28 | 25 de Diciembre 2008|
 | 2.6.29 | 24 de Marzo 2009 |
 | 2.6.30 | 9 de Junio 2009 |
 | 2.6.31 | 9 de Septiembre 2009 |
