@@ -40,10 +40,10 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 2.6.18 | 20 de Septiembre 2006 |
 | 2.6.19 | 19 de Noviembre 2006 |
 | 2.6.20 | 5 de Febrero 2007 |
-| 2.6.21 | Por verificar |
-| 2.6.22 | Por verificar |
-| 2.6.23 | Por verificar |
-| 2.6.24 | Por verificar |
+| 2.6.21 | 26 de Abril 2007 |
+| 2.6.22 | 8 de Julio 2007 |
+| 2.6.23 | 9 de Octubre 2007 |
+| 2.6.24 | 25 de Enero 2008 |
 | 2.6.25 | 16 de Abril 2008 |
 | 2.6.26 | 13 de Julio 2008 |
 | 2.6.27 | 9 de Octubre 2008 |
