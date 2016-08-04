@@ -1,5 +1,7 @@
 # Kernel linux en el tiempo
-Investigando las tecnologías implementadas desde los comienzos hasta los kernel mas modernos.
+En este libro presentare un estudio detallado sobre los cambio que han sido agregados en el kernel linux hasta llegar a los kernels linux en la actualidad.
+
+Toma en cuenta que las primeras versiones no estuvieron bien documentados los cambios
 
 Básicamente se trata de una recopilación de las características agregadas a los kernels al pasar de cada versión.
 
