@@ -2,6 +2,6 @@
 
 * [Leéme](README.md)
 * [Introducción](Introduccion.md)
-* [Comienzos](Comienzos)
+* [Comienzos](Comienzos/README.md)
    * [README.md](Comienzos/README.md)
 
