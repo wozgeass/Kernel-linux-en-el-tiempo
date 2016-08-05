@@ -17,24 +17,29 @@ h1 {
     color: #ffffff;
     background: #00a9d0;
 	text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 h2 {
     font-family: Inconsolata;
     color: #00a9d0;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 h3 {
     font-family: Inconsolata;
     color: #00a9d0;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 h4 {
     font-family: Inconsolata;
     color: #00a9d0;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 table {
