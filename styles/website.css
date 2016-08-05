@@ -22,16 +22,19 @@ h1 {
 h2 {
     font-family: Inconsolata;
     color: #00a9d0;
+    font-weight: bold;
 }
 
 h3 {
     font-family: Inconsolata;
     color: #00a9d0;
+    font-weight: bold;
 }
 
 h4 {
     font-family: Inconsolata;
     color: #00a9d0;
+    font-weight: bold;
 }
 
 table {
