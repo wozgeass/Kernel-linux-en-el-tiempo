@@ -10,6 +10,7 @@ header {
     background: #00a9d0;
     margin-bottom: 30px;
     padding: 25px 0px;
+    text-transform: uppercase;
 }
 
 h1 {
@@ -18,7 +19,7 @@ h1 {
     background: #00a9d0;
 	text-align: center;
     font-weight: bold;
-    text-decoration: underline;
+    text-transform: uppercase;
 }
 
 h2 {
