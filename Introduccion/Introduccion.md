@@ -1,3 +1,4 @@
 # Introducción
 Todos los que en algún momento hemos usado alguna distribución linux o celular con android, hemos interactuado sin saberlo con versiónes del **kernel linux**. Aunque en la actualidad las características son mas complejas y requieren en muchos casos una revisión mas extensa para poder entender los aspectos técnicos.
 
+Si tu interes es empezar con el desarrollo del kernel linux muchas veces tendras que regresarte un poco para poder entender el por que agregaron ciertas tecnologias
