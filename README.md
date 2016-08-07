@@ -1,9 +1,9 @@
 # Kernel linux en el tiempo
-En este libro presentare un estudio detallado sobre los cambio que han sido agregados en el **kernel linux** hasta llegar a lo que se ha implementado en la actualidad.
+En este libro presentare un estudio detallado sobre los cambio que han sido agregados en el  **kernel linux** hasta llegar a lo que se ha implementado en la actualidad.
 
-Toma en cuenta que las primeras versiones no estuvieron bien documentados los cambios, pero estaremos revisando las características agregadas desde el primer release del **kernel**.
+Toma en cuenta que las primeras versiones no estuvieron bien documentados los cambios, pero estaremos revisando las características agregadas desde el primer release del  **kernel**.
 
-Así entenderemos como ha sido la evolución del **kernel** en sus 25 años de vida.
+Así entenderemos como ha sido la evolución del  **kernel** en sus 25 años de vida.
 
 Básicamente se trata de una recopilación de las características agregadas a los kernels al pasar de cada versión.
 
