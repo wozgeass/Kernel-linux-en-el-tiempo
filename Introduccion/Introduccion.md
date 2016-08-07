@@ -3,4 +3,4 @@ Todos los que en algún momento hemos usado alguna distribución linux o celular
 
 Si tu interes es empezar con el desarrollo del **kernel linux** muchas veces tendras que regresarte un poco para poder entender el por que agregaron ciertas tecnologías.
 
-Linux es derivado de UNIX que ha ganado una gran popularidad en los ultimos años, tiene un aspecto y estilo similares a los de cualquier otro UNIX; de hecho la compatilibilidad  ha sido una de los principales objetivos del diseño del proyecto. Aun que su diseño es mucho mas actual que alguno UNIX agregando nuevas caracteristicas y solucionando un gran numero de Bugs.
+**Linux** es derivado de **UNIX** que ha ganado una gran popularidad en los ultimos años, tiene un aspecto y estilo similares a los de cualquier otro **UNIX**; de hecho la compatibilidad  ha sido una de los principales objetivos del diseño del proyecto. Aun que su diseño es mucho mas actual que alguno **UNIX** agregando nuevas características y solucionando un gran numero de Bugs.
