@@ -1,2 +1,2 @@
 # Introducción
-Todos los que en algun momento hemos usado alguna distribución linux o celular con android, hemos interactuado sin saberlo con versiónes del kernel linux. Aunque en la actualidad las caracteristicas son mas complejas y requieren en muchos casos una revicion mas extensa para poder entender los aspectos tecnicos mas actuales.
+Todos los que en algún momento hemos usado alguna distribución linux o celular con android, hemos interactuado sin saberlo con versiónes del **kernel linux**. Aunque en la actualidad las características son mas complejas y requieren en muchos casos una revisión mas extensa para poder entender los aspectos técnicos.
