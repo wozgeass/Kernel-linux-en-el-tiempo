@@ -7,7 +7,7 @@ Si tu interes es empezar con el desarrollo del **kernel linux** muchas veces ten
 
 ## Gnu's not Unix
 
-Es importante resaltar que **Linux** no seria lo que es sin un proyecto llamado **GNU**.
+Es importante resaltar que **Linux** no seria lo que es sin el proyecto llamado **GNU**.
 
 A principios de *1984*, **Richard Stallman**, en aquella época empleado en el *AI Lab* del **MIT**, abandonó su trabajo para comenzar el proyecto **GNU**. **Stallman** se consideraba un desarrollador de los que gozaban compartiendo sus inquietudes tecnológicas y su código. Veía con desagrado cómo su negativa a firmar acuerdos de exclusividad y no compartición le estaban convirtiendo en un extraño en su propio mundo, y cómo el uso de ~~software propietario~~ en su entorno le dejaba impotente antes situaciones que antes podía solventar fácilmente.
 
