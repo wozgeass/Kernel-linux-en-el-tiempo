@@ -7,7 +7,7 @@ Así entenderemos como ha sido la evolución del  **kernel** en sus 25 años de 
 
 Básicamente se trata de una recopilación de las características agregadas a los kernels al pasar de cada versión.
 
-| Versión | Fecha |
+| **Versión** | **Fecha** |
 |--------|--------|
 |**0.01**|**17 de Septiembre 1991**|
 | 0.2 | 4 de Octubre 1991 |
@@ -91,4 +91,4 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 4.5 | 13 de Marzo 2016 |
 | 4.6 | 15 de Mayo 2016 |
 | 4.7 | 24 de Julio 2016 |
-| **4.8** | **Mediados de Octubre 2016** |
+| **4.8** | **Finales de Septiembre 2016** |
