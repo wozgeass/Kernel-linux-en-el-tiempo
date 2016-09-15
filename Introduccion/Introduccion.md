@@ -14,7 +14,7 @@ Y nada habia de raro en que este programa fuera modificado por otro equipo, y as
 
 Pero el universo de la computacion ha seguido otros caminos. Pese a ser una ciencia, el futuro de las investigaciones no se circunscribe al mundo Universitario. Rapidamente las empresas vieron el inmenso interes de automatizar varias de sus tareas, como la contabilidad, los pagos, etc. Con la compra de los primeros grandes ordenadores de gestion, se necesitaron programas. Estos programas tuvieron que ser protegidos como secretos industriales, habia nacido una nueva industria: el desarrollo de programas. Con su entrada en la dinamica de las grandes empresas, la Computacion perdio rapidamente la inocencia y se hizo mucho menos libre. Se empezo a hablar de lincencias, impuestos, tasas, prohibicion de copia.
 
-## El proyecto GNU
+## El proyecto GNU y la FSF
 
 Es importante resaltar que **Linux** no seria lo que es sin el proyecto llamado **GNU**.
 
@@ -26,3 +26,4 @@ Desde el principio del proyecto **GNU**, **Richard Stallman** estaba preocupado 
 
 Estaba interesado en que no sólo los que recibieran los programas directamente del proyecto **GNU**, sino cualquiera que lo recibiera después de cualquier número de redistribuciones y (quizás) modificaciones, siguiera disfrutando de los mismos derechos (modificación,redistribución, etc.). Para ello, escribió la licencia **GPL**, probablemente la primera licencia de software diseñada específicamente para garantizar que un programa fuera libre en este sentido. Al mecanismo genérico que utilizan las licencias tipo **GPL** para conseguir estas garantías, **Richard Stallman** lo llamó **copyleft**, que hoy día es el nombre de una gran familia de licencias de software libre.
 
+Richard Stallman también fundó la Free Software Foundation (FSF con el fin de conseguir fondos para el desarrollo y la protección del software libre, y sentó los fundamentos éticos del software libre, con documentos como The GNU Manifesto y Why Software Should Not Have Owners.
