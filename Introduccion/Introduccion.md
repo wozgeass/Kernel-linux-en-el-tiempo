@@ -12,7 +12,7 @@ Los primeros ordenadores eran escencialmente herramientas de investigacion en ma
 
 Y nada habia de raro en que este programa fuera modificado por otro equipo, y asi sucesivamente. A dia de hoy, cuando un ilustre matematico demuestra un teorema dificil, publica el resultado de sus investigaciones en obras especializadas con el fin de ayudar al progreso de la ciencia. Todo el mundo tiene acceso a ello.
 
-Pero el universo de la computacion ha seguido otros caminos. Pese a ser una ciencia, el futuro de las investigaciones no se circunscribe al mundo Universitario. Rapidamente las empresas vieron el inmenso interes de automatizar varias de sus tareas, como la contabilidad, los pagos, etc. Con la compra de los primeros grandes ordenadores de gestion, se necesitaron programas. Estos programas tuvieron que ser protegidos como secretos industriales, habia nacido una nueva industria: el desarrollo de programas. Con su entrada en la dinamica de las grandes empresas, la Computacion perdio rapidamente la inocencia y se hizo mucho menos libre. Se empezo a hablar de lincencias, impuestos, tasas, prohibicion de copia.
+Pero el universo de la computación ha seguido otros caminos. Pese a ser una ciencia, el futuro de las investigaciones no se circunscribe al mundo Universitario. Rapidamente las empresas vieron el inmenso interes de automatizar varias de sus tareas, como la contabilidad, los pagos, etc. Con la compra de los primeros grandes ordenadores de gestion, se necesitaron programas. Estos programas tuvieron que ser protegidos como secretos industriales, habia nacido una nueva industria: el desarrollo de programas. Con su entrada en la dinamica de las grandes empresas, la Computacion perdio rapidamente la inocencia y se hizo mucho menos libre. Se empezo a hablar de licencias, impuestos, tasas, prohibición de copia.
 
 ## El proyecto GNU y la FSF
 
@@ -32,3 +32,4 @@ Desde el punto de vista técnico, el proyecto **GNU** fue concebido como un trab
 
 El método de trabajo generalmente implicaba el uso de Internet, pero ante la escasa implantación de aquellos días, la **Free Software Foundation** también vendía cintas en las que grababa las aplicaciones, siendo probablemente uno de las primeras organizaciones en beneficiarse económicamente (aunque de manera bastante limitada) de la creación de **software libre**.
 
+A continuación te mostrare una tabla con los proyectos que **GNU** tiene bajo su
