@@ -6,7 +6,7 @@ Si tu interes es empezar con el desarrollo del **kernel linux** muchas veces ten
 **Linux** es un sistema operativo derivado de **UNIX** que ha ganado una gran popularidad en los ultimos años, con sus ya *25 años* de vida conserva una arquitectura y estilo similares a los de cualquier otro **UNIX**; de hecho la compatibilidad  ha sido una de los principales objetivos del diseño del proyecto. Aun que su diseño es mucho mas actual que algunos **UNIX** ha sido gracias a que la comunidad de desarrolladores ha venido agregando nuevas características y solucionando un gran numero de Bugs.
 
 # En el principio de los tiempos
-Unix es el perfecto ejemplo del trabajo que se puede efectuar cuando se encauzan 
+UNIX es el perfecto ejemplo del trabajo que se puede efectuar cuando se encauzan todas las energias a la busqueda de un ideal tecnologico. Cuando AT&T distribuye casi libremente en 1974 el codigo fuente del sistema operativo a la Universidades por que, entre otras razones, no ve ningun futuro economico a su producto. no parece dudar del entusiasmo de los estudiantes, profesores e investigadores de la Computacion. Esta primer comunidad pasara mucho tiempo modificando 
 
 ## Gnu's not Unix
 
