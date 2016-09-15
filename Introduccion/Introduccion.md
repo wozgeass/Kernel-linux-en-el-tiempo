@@ -8,7 +8,9 @@ Si tu interes es empezar con el desarrollo del **kernel linux** muchas veces ten
 # En el principio de los tiempos
 UNIX es el perfecto ejemplo del trabajo que se puede efectuar cuando se encauzan todas las energias a la busqueda de un ideal tecnologico. Cuando AT&T distribuye casi libremente en 1974 el codigo fuente del sistema operativo a la Universidades por que, entre otras razones, no ve ningun futuro economico a su producto. no parece dudar del entusiasmo de los estudiantes, profesores e investigadores de la Computacion. Esta primer comunidad pasara mucho tiempo modificando y mejorando el producto, subiendo todas la novedades a AT&T para que se integre al producto oficial. Tras el cambio de licencia en 1978, la energia de la comunidad se encauzo hacia el proyecto Universitario BSD, dejando al UNIX comercial de AT&T.
 
-Los primeros ordenadores eran escencialmente herramientas de investigacion en manos de universitarios y tambien para necesidades militares
+Los primeros ordenadores eran escencialmente herramientas de investigacion en manos de universitarios y necesidades militares. En los laboratorios de investigacion, los programas circulaban como las ideas: libremente. Era absolutamente normal que un programa desarrollado por un equipo de programadores o investigadores se distribuyera a otros equipos de otras universidades y a cualquier otro lugar donde hiciera falta.
+
+Y nada habia de raro en que este programa fuera modificado por otro equipo, y asi sucesivamente. A dia de hoy, cuando un ilustre matematico demuestra un teorema dificil, publica el resultado de sus investigaciones
 
 ## Gnu's not Unix
 
