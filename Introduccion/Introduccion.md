@@ -32,4 +32,24 @@ Desde el punto de vista técnico, el proyecto **GNU** fue concebido como un trab
 
 El método de trabajo generalmente implicaba el uso de Internet, pero ante la escasa implantación de aquellos días, la **Free Software Foundation** también vendía cintas en las que grababa las aplicaciones, siendo probablemente uno de las primeras organizaciones en beneficiarse económicamente (aunque de manera bastante limitada) de la creación de **software libre**.
 
-A continuación te mostrare una tabla con los proyectos que **GNU** tiene bajo su
+A continuación te mostrare una tabla con los proyectos que **GNU** considera son proyectos **software libre**.
+
+| Proyectos GNU |
+| -- |
+| 3dldf | 1:2 | 2:2 | 3:2 |
+| anubis | 1:3 | 2:3 | 3:3 |
+| autoconf | 1:4 | 2:4 | 3:4 |
+| bash | 1:5 | 2:5 | 3:5 |
+| bool | 1:6 | 2:6 | 3:6 |
+| ccscript | 1:7 | 2:7 | 3:7 |
+| 0:8 | 1:8 | 2:8 | 3:8 |
+| 0:9 | 1:9 | 2:9 | 3:9 |
+| 0:10 | 1:10 | 2:10 | 3:10 |
+| 0:11 | 1:11 | 2:11 | 3:11 |
+| 0:12 | 1:12 | 2:12 | 3:12 |
+| 0:13 | 1:13 | 2:13 | 3:13 |
+| 0:14 | 1:14 | 2:14 | 3:14 |
+| 0:15 | 1:15 | 2:15 | 3:15 |
+| 0:16 | 1:16 | 2:16 | 3:16 |
+| 0:17 | 1:17 | 2:17 | 3:17 |
+
