@@ -36,14 +36,14 @@ A continuación te mostrare una tabla con los proyectos que **GNU** considera so
 
 | **Proyectos GNU** |
 | :--: | :--: | :--: | :--: |
-| 3dldf | 1:2 | 2:2 | 3:2 |
-| anubis | 1:3 | 2:3 | 3:3 |
-| autoconf | 1:4 | 2:4 | 3:4 |
-| bash | 1:5 | 2:5 | 3:5 |
-| bool | 1:6 | 2:6 | 3:6 |
-| ccscript | 1:7 | 2:7 | 3:7 |
-| clisp | 1:8 | 2:8 | 3:8 |
-| coreutils | 1:9 | 2:9 | 3:9 |
+| **3dldf** | 1:2 | 2:2 | 3:2 |
+| **anubis** | 1:3 | 2:3 | 3:3 |
+| **autoconf** | 1:4 | 2:4 | 3:4 |
+| **bash** | 1:5 | 2:5 | 3:5 |
+| **bool** | 1:6 | 2:6 | 3:6 |
+| **ccscript** | 1:7 | 2:7 | 3:7 |
+| **clisp** | 1:8 | 2:8 | 3:8 |
+| **coreutils** | 1:9 | 2:9 | 3:9 |
 | dc | 1:10 | 2:10 | 3:10 |
 | diction | 1:11 | 2:11 | 3:11 |
 | easejs | 1:12 | 2:12 | 3:12 |
