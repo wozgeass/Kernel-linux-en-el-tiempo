@@ -12,9 +12,9 @@ Los primeros ordenadores eran escencialmente herramientas de investigacion en ma
 
 Y nada habia de raro en que este programa fuera modificado por otro equipo, y asi sucesivamente. A dia de hoy, cuando un ilustre matematico demuestra un teorema dificil, publica el resultado de sus investigaciones en obras especializadas con el fin de ayudar al progreso de la ciencia. Todo el mundo tiene acceso a ello.
 
-Pero el universo de la computacion ha seguido otros caminos. Pese a ser una ciencia, el futuro de las investigaciones no se circunscribe al mundo Universitario. Rapidamente las empresas vieron el inmenso interes de automatizar
+Pero el universo de la computacion ha seguido otros caminos. Pese a ser una ciencia, el futuro de las investigaciones no se circunscribe al mundo Universitario. Rapidamente las empresas vieron el inmenso interes de automatizar varias de sus tareas, como la contabilidad, los pagos, etc. Con la compra de los primeros grandes ordenadores de gestion, se necesitaron programas. Estos programas tuvieron que ser protegidos como secretos industriales, habia nacido una nueva industria: el desarrollo de programas. Con su entrada en la dinamica de las grandes empresas, la Computacion perdio rapidamente la inocencia y se hizo mucho menos libre. Se empezo a hablar de lincencias, impuestos, tasas, prohibicion de copia.
 
-## Gnu's not Unix
+## El proyecto GNU
 
 Es importante resaltar que **Linux** no seria lo que es sin el proyecto llamado **GNU**.
 
@@ -23,5 +23,6 @@ A principios de *1984*, **Richard Stallman**, en aquella época empleado en el *
 Su idea al abandonar el **MIT** era construir un sistema de software completo, de propósito general, pero completamente libre. El sistema (y el proyecto que se encargaría de hacerlo realidad) se llamó **GNU** *(acrónimo recursivo, **GNU's Not Unix**)*. Aunque desde el principio el proyecto **GNU** incluyó en su sistema software ya disponible (como *Tex*, o más adelante, el sistema *X Window*), había mucho que construir. **Richard Stallman** comenzó por escribir un compilador de **C** (**GCC**) y un editor (**Emacs**), ambos aún en uso (y muy populares) hoy día.
 
 Desde el principio del proyecto **GNU**, **Richard Stallman** estaba preocupado por las libertades que tendrían los usuarios de su software.
+
 Estaba interesado en que no sólo los que recibieran los programas directamente del proyecto **GNU**, sino cualquiera que lo recibiera después de cualquier número de redistribuciones y (quizás) modificaciones, siguiera disfrutando de los mismos derechos (modificación,redistribución, etc.). Para ello, escribió la licencia **GPL**, probablemente la primera licencia de software diseñada específicamente para garantizar que un programa fuera libre en este sentido. Al mecanismo genérico que utilizan las licencias tipo **GPL** para conseguir estas garantías, **Richard Stallman** lo llamó **copyleft**, que hoy día es el nombre de una gran familia de licencias de software libre.
 
