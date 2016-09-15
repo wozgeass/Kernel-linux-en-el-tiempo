@@ -34,8 +34,8 @@ El método de trabajo generalmente implicaba el uso de Internet, pero ante la es
 
 A continuación te mostrare una tabla con los proyectos que **GNU** considera son proyectos **software libre**.
 
-| Proyectos GNU |
-| -- |
+| **Proyectos GNU** |
+| :--: | :--: | :--: | :--: |
 | 3dldf | 1:2 | 2:2 | 3:2 |
 | anubis | 1:3 | 2:3 | 3:3 |
 | autoconf | 1:4 | 2:4 | 3:4 |
