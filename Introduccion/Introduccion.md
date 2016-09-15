@@ -27,3 +27,9 @@ Desde el principio del proyecto **GNU**, **Richard Stallman** estaba preocupado 
 Estaba interesado en que no sólo los que recibieran los programas directamente del proyecto **GNU**, sino cualquiera que lo recibiera después de cualquier número de redistribuciones y (quizás) modificaciones, siguiera disfrutando de los mismos derechos (modificación,redistribución, etc.). Para ello, escribió la licencia **GPL**, probablemente la primera licencia de software diseñada específicamente para garantizar que un programa fuera libre en este sentido. Al mecanismo genérico que utilizan las licencias tipo **GPL** para conseguir estas garantías, **Richard Stallman** lo llamó **copyleft**, que hoy día es el nombre de una gran familia de licencias de software libre.
 
 Richard Stallman también fundó la **Free Software Foundation** (FSF con el fin de conseguir fondos para el desarrollo y la protección del software libre, y sentó los fundamentos éticos del software libre, con documentos como **The GNU Manifesto y Why Software Should Not Have Owners**.
+
+Desde el punto de vista técnico, el proyecto GNU fue concebido como un trabajo muy estructurado y con metas muy claras. El método habitual estaba basado en grupos relativamente pequeños de personas (habitualmente voluntarios) que desarrollaban alguna de las herramientas que luego encajarían perfectamente en el rompecabezas completo (el sistema GNU). La modularidad de UNIX, en la que se inspiraba el desarrollo, encajaba perfectamente en esta idea.
+
+El método de trabajo generalmente implicaba el uso de Internet, pero ante la escasa implantación de aquellos días, la Free Software Foundation también vendía cintas en las que grababa las aplicacio-
+nes, siendo probablemente uno de las primeras organizaciones en beneficiarse económicamente (aunque de manera bastante limitada) de la creación de software libre.
+
