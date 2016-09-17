@@ -6,7 +6,7 @@ Si tu interes es empezar con el desarrollo del **kernel linux** muchas veces ten
 **Linux** es un sistema operativo derivado de **UNIX** que ha ganado una gran popularidad en los ultimos años, con sus ya *25 años* de vida conserva una arquitectura y estilo similares a los de cualquier otro **UNIX**; de hecho la compatibilidad  ha sido una de los principales objetivos del diseño del proyecto. Aun que su diseño es mucho mas actual que algunos **UNIX** ha sido gracias a que la comunidad de desarrolladores ha venido agregando nuevas características y solucionando un gran numero de Bugs.
 
 # En el principio de los tiempos
-UNIX es el perfecto ejemplo del trabajo que se puede efectuar cuando se encauzan todas las energias a la busqueda de un ideal tecnologico. Cuando AT&T distribuye casi libremente en 1974 el codigo fuente del sistema operativo a la Universidades por que, entre otras razones, no ve ningun futuro economico a su producto. no parece dudar del entusiasmo de los estudiantes, profesores e investigadores de la Computacion. Esta primer comunidad pasara mucho tiempo modificando y mejorando el producto, subiendo todas la novedades a AT&T para que se integre al producto oficial. Tras el cambio de licencia en 1978, la energia de la comunidad se encauzo hacia el proyecto Universitario BSD, dejando al UNIX comercial de AT&T.
+UNIX es el perfecto ejemplo del trabajo que se puede efectuar cuando se encauzan todas las energias a la busqueda de un ideal tecnologico. Cuando *AT&T* distribuye casi libremente en 1974 el codigo fuente del sistema operativo a la Universidades por que, entre otras razones, no ve ningun futuro economico a su producto. no parece dudar del entusiasmo de los estudiantes, profesores e investigadores de la Computacion. Esta primer comunidad pasara mucho tiempo modificando y mejorando el producto, subiendo todas la novedades a *AT&T* para que se integre al producto oficial. Tras el cambio de licencia en 1978, la energia de la comunidad se encauzo hacia el proyecto Universitario **BSD**, dejando al **UNIX** comercial de AT&T.
 
 Los primeros ordenadores eran escencialmente herramientas de investigacion en manos de universitarios y necesidades militares. En los laboratorios de investigacion, los programas circulaban como las ideas: libremente. Era absolutamente normal que un programa desarrollado por un equipo de programadores o investigadores se distribuyera a otros equipos de otras universidades y a cualquier otro lugar donde hiciera falta.
 
@@ -36,26 +36,26 @@ A continuación te mostrare una tabla con los proyectos que **GNU** considera so
 
 | **Proyectos GNU** |
 | :--: | :--: | :--: | :--: |
-| **3dldf** | 1:2 | 2:2 | 3:2 |
-| **anubis** | 1:3 | 2:3 | 3:3 |
-| **autoconf** | 1:4 | 2:4 | 3:4 |
-| **bash** | 1:5 | 2:5 | 3:5 |
-| **bool** | 1:6 | 2:6 | 3:6 |
-| **ccscript** | 1:7 | 2:7 | 3:7 |
-| **clisp** | 1:8 | 2:8 | 3:8 |
-| **coreutils** | 1:9 | 2:9 | 3:9 |
-| dc | 1:10 | 2:10 | 3:10 |
-| diction | 1:11 | 2:11 | 3:11 |
-| easejs | 1:12 | 2:12 | 3:12 |
-| enscript | 1:13 | 2:13 | 3:13 |
-| foliot | 1:14 | 2:14 | 3:14 |
-| fribidi | 1:15 | 2:15 | 3:15 |
-| gcide | 1:16 | 2:16 | 3:16 |
-| gleem | 1:17 | 2:17 | 3:17 |
-| gnash | 1:17 | 2:17 | 3:17 |
-| gettext | 1:17 | 2:17 | 3:17 |
-| gnu-c-manual | 1:17 | 2:17 | 3:17 |
-| gnubiff | 1:17 | 2:17 | 3:17 |
+| *3dldf* | 1:2 | 2:2 | 3:2 |
+| *anubis* | 1:3 | 2:3 | 3:3 |
+| *autoconf* | 1:4 | 2:4 | 3:4 |
+| *bash* | 1:5 | 2:5 | 3:5 |
+| *bool* | 1:6 | 2:6 | 3:6 |
+| *ccscript* | 1:7 | 2:7 | 3:7 |
+| *clisp* | 1:8 | 2:8 | 3:8 |
+| *coreutils* | 1:9 | 2:9 | 3:9 |
+| *dc* | 1:10 | 2:10 | 3:10 |
+| *diction* | 1:11 | 2:11 | 3:11 |
+| *easejs* | 1:12 | 2:12 | 3:12 |
+| *enscript* | 1:13 | 2:13 | 3:13 |
+| *foliot* | 1:14 | 2:14 | 3:14 |
+| *fribidi* | 1:15 | 2:15 | 3:15 |
+| *gcide* | 1:16 | 2:16 | 3:16 |
+| *gleem* | 1:17 | 2:17 | 3:17 |
+| *gnash* | 1:17 | 2:17 | 3:17 |
+| *gettext* | 1:17 | 2:17 | 3:17 |
+| *gnu-c-manual* | 1:17 | 2:17 | 3:17 |
+| *gnubiff* | 1:17 | 2:17 | 3:17 |
 | gnue | 1:17 | 2:17 | 3:17 |
 | gnulib | 1:17 | 2:17 | 3:17 |
 | gnupg | 1:17 | 2:17 | 3:17 |
