@@ -24,25 +24,28 @@ h1 {
 
 h2 {
     font-family: Inconsolata;
-    color: #00a9d0;
+    color: #ffffff;
+    background: #00a9d0;
+	text-align: center;
     font-weight: bold;
-    text-decoration: underline;
     text-transform: uppercase;
 }
 
 h3 {
     font-family: Inconsolata;
-    color: #00a9d0;
+    color: #ffffff;
+    background: #00a9d0;
+	text-align: center;
     font-weight: bold;
-    text-decoration: underline;
     text-transform: uppercase;
 }
 
 h4 {
     font-family: Inconsolata;
-    color: #00a9d0;
+    color: #ffffff;
+    background: #00a9d0;
+	text-align: center;
     font-weight: bold;
-    text-decoration: underline;
     text-transform: uppercase;
 }
 
