@@ -36,6 +36,8 @@ El método de trabajo generalmente implicaba el uso de Internet, pero ante la es
 
 A principios de la década de **1990**, unos seis años después de su nacimiento, el proyecto **GNU** estaba muy cerca de tener un sistema completo similar a **Unix**. Aun así, hasta ese momento todavía no había producido una de las piezas fundamentales: el **kernel** del sistema (el núcleo del sistema operativo que se relaciona con el hardware y permite que todo funcione). Sin embargo, el software de **GNU** era muy popular entre los usuarios de las distintas variantes de **Unix**, por aquella época el sistema operativo más usado en las empresas. Además, el proyecto **GNU** había conseguido ser relativamente conocido entre los profesionales informáticos, y muy especialmente entre los que trabajaban en universidades. En esa época, sus productos ya gozaban de una merecida reputación de estabilidad y calidad.
 
+
+
 A continuación te mostrare una tabla con los proyectos que **GNU** considera son proyectos **software libre**.
 
 | **Proyectos GNU** |
@@ -135,3 +137,5 @@ A continuación te mostrare una tabla con los proyectos que **GNU** considera so
 | *xhippo* | 1:17 | 2:17 | 3:17 |
 | *xhippo* | 1:17 | 2:17 | 3:17 |
 | *xhippo* | 1:17 | 2:17 | 3:17 |
+
+A finales de la década de los ochenta, principios de los noventa, el proyecto GNU contaba con una gama básica de utilidades y herramientas que permitían tener el sistema operativo al completo. Ya entonces muchas aplicaciones libres eran las mejores en su campo (utilidades UNIX, compiladores), siendo especialmente interesante el caso de X Window. Sin embargo, para terminar el rompecabezas faltaba una pieza esencial: el núcleo del sistema operativo. El proyecto GNU estaba buscando esa pieza con un proyecto llamado Hurd, que pretendía construir un kernel con tecnologías modernas.
