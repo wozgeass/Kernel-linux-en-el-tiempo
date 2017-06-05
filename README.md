@@ -92,5 +92,11 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | 4.5 | 13 de Marzo 2016 |
 | 4.6 | 15 de Mayo 2016 |
 | 4.7 | 24 de Julio 2016 |
-| 4.8 | Por se publicado el 2 de Octubre 2016 |
-| **4.9** | **Esperado a principios de Diciembre 2016** |
+| 4.8 | 2 de Septiembre 2016 |
+| **4.9** | 7 de Diciembre 2016 |
+| 4.10 | 8 de Febrero 2017 |
+| 4.11 | 19 de Abril 2017 |
+| 4.12 | **Primeros dias de Julio 2017** |
+
+
+
