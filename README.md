@@ -96,7 +96,7 @@ Básicamente se trata de una recopilación de las características agregadas a l
 | **4.9** | 7 de Diciembre 2016 |
 | 4.10 | 8 de Febrero 2017 |
 | 4.11 | 19 de Abril 2017 |
-| 4.12 | **Primeros dias de Julio 2017** |
+| 4.12 | **Primeros días de Julio 2017** |
 
 
 
