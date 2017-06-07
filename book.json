@@ -1,5 +1,6 @@
 {
     "styles": {
+        "ebook": "styles/ebook.css"
         "website": "styles/website.css",
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
