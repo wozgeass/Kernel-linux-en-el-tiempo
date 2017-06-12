@@ -1,17 +1,12 @@
 {
-    "styles": {
-        "ebook": "styles/ebook.css",
-        "website": "styles/website.css",
-        "mobi": "styles/mobi.css",
-        "epub": "styles/epub.css"
-    }
-    
-},
-
-{
-     "pdf": {
-        "headerTemplate": "El Kernel Linux en el tiempo",
-        "footerTemplate": "_PAGENUM_"
-    }
-    
+	"styles": {
+		"ebook": "styles/ebook.css",
+		"website": "styles/website.css",
+		"mobi": "styles/mobi.css",
+		"epub": "styles/epub.css"
+	},
+	"pdf": {
+		"headerTemplate": "El Kernel Linux en el tiempo",
+		"footerTemplate": "_PAGENUM_"
+	}
 }
