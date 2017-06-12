@@ -1,7 +1,4 @@
-```
-Cruel
 Hola mundo
-```
 
     {% exercise %}
     Define a variable `x` equal to 10.
@@ -20,6 +17,8 @@ Hola mundo
         return 3;
     }
     {% endexercise %}
+
+
 
 
 
