@@ -6,7 +6,8 @@
         "epub": "styles/epub.css"
     }
     
-}
+},
+
 {
      "pdf": {
         "headerTemplate": "El Kernel Linux en el tiempo",
