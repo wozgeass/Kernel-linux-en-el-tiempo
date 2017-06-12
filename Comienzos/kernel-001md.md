@@ -1,4 +1,8 @@
-    Hola mundo
+```
+Cruel
+Hola mundo
+```
+
     {% exercise %}
     Define a variable `x` equal to 10.
     {% initial %}
@@ -17,5 +21,5 @@
     }
     {% endexercise %}
 
-Cruel
+
 
