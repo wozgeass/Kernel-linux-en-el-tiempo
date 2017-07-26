@@ -1,0 +1,201 @@
+/* CSS for website */
+/* Fuentes para Texto */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/* Fuentes para Titulos */
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+/* Fuentes para Codigo */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Condensed');
+
+/*header {
+    font-size: medium;
+    font-weight: bold;
+    font-family: Abril Fatface;
+    background: #1b1e24;
+    margin-bottom: 30px;
+    padding: 25px 0px;
+    text-transform: uppercase;
+}*/
+
+h1 {
+    padding: 1em;
+    font-weight: bold;
+    font-size: large;
+    font-family: Abril Fatface;
+    color: #ffffff;
+    background: #2196F3;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: left;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Abril Fatface;
+    color: #2196F3;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: Abril Fatface;
+    color: #ffffff;
+    background: #2196F3;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family: Abril Fatface;
+    color: #ffffff;
+    background: #2196F3;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-family: Abril Fatface;
+    color: #ffffff;
+    background: #2196F3;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+table {
+    font-family: Roboto;
+    font-size: x-small;
+    display: fixed;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+thead,
+th {
+    background: #1b1e24;
+    color: #CFD8DC;
+    border-top: 0.4em solid #2196F3;
+    background-color: #1b1e24;
+    font-family: Roboto;
+    font-size: x-small;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+tbody {
+    font-size: x-small;
+    font-family: Roboto;
+    color: #7C7C7C;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+tbody tr:nth-child(odd) {
+   background-color: #f2f2f2;
+}
+
+td {
+    font-family: Roboto;
+    border-collapse: collapse;
+    margin: auto;
+    border-spacing: 0;
+    /*padding: 15px 5px;*/
+    text-align: center;
+    vertical-align: center;
+}
+
+img {
+    width:         35%;
+    border-radius: 5px;
+    text-align:    center;
+    display:       block;
+    margin:        0 auto 0 auto;
+}
+
+blockquote {
+    line-height:  normal;10px 20px
+    font-size:    x-small;
+    font-family:  Roboto;
+    border-left:  4px solid #2196F3;
+    padding-left: 1.5rem;
+    color:        #00a9d0;
+}
+
+ul {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    list-style-type: square;
+    color: #7C7C7C;
+    text-align: justify;
+}
+
+li {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    color: #7C7C7C;
+    text-align: justify;
+}
+
+ol {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    color: #7C7C7C;
+    text-align: justify;
+}
+
+a {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    color: #00a9d0;
+}
+
+p {
+    color: #7C7C7C;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    text-align: justify;
+}
+
+i {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: x-small;
+    font-family: Roboto;
+    color: #00a9d0;
+}
+
+b {
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: small;
+    font-family: Roboto;
+    color: #2196F3;
+}
+
+pre {
+    letter-spacing: normal;
+    line-height: normal;
+    font-size: x-small;
+    font-family: Ubuntu Condensed;
+    border-radius: 10px 50px 5px 5px;
+    border-width: 0.4em;
+    border-style: solid;
+    border-color: #2196F3;
+}
+
+code {
+    line-height: 1.2;
+    font-size: x-small;
+    font-family: Ubuntu Condensed;
+}
