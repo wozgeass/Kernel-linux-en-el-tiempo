@@ -25,58 +25,58 @@ Inicio de la madures
 | 1.2         | 6 de Abril 1995      |
 | 1.3         | 12 de Junio 1995     |
 
-La madurez
+Inicio de la madurez
 
-| **versión** | **Fecha**                       |
-| ----------- | ------------------------------- |
-| **2.0**     | **9 de Junio 1996**             |
-| 2.1         | 30 de Septiembre 1996           |
-| 2.2         | 26 de Enero 1999                |
-| 2.3         | 11 de Mayo 1999                 |
-| 2.4         | 4 de Enero 2001                 |
-| 2.5         | 23 de Noviembre 2001            |
-| 2.6         | 18 de Diciembre 2003            |
-| 2.6.1       | 9 de Enero 2004                 |
-| 2.6.2       | 4 de Febrero 2004               |
-| 2.6.3       | 18 de Febrero 2004              |
-| 2.6.4       | 11 de Marzo 2004                |
-| 2.6.5       | 4 de Abril 2004                 |
-| 2.6.6       | 10 de Mayo 2004                 |
-| 2.6.7       | 16 de Junio 2004                |
-| 2.6.8       | 14 de Agosto 2004               |
-| 2.6.9       | 19 de Octubre 2004              |
-| 2.6.10      | 24 de Diciembre 2004            |
-| 2.6.11      | 2 de Marzo 2006                 |
-| 2.6.12      | 17 de Junio 2005                |
-| 2.6.13      | 29 de Agosto 2005               |
-| 2.6.14      | 27 de Octubre 2005              |
-| 2.6.15      | 3 de Enero 2006                 |
-| 2.6.16      | 20 de Marzo 2006                |
-| 2.6.17      | 17 de Junio 2006                |
-| 2.6.18      | 20 de Septiembre 2006           |
-| 2.6.19      | 19 de Noviembre 2006            |
-| 2.6.20      | 5 de Febrero 2007               |
-| 2.6.21      | 26 de Abril 2007                |
-| 2.6.22      | 8 de Julio 2007                 |
-| 2.6.23      | 9 de Octubre 2007               |
-| 2.6.24      | 25 de Enero 2008                |
-| 2.6.25      | 16 de Abril 2008                |
-| 2.6.26      | 13 de Julio 2008                |
-| 2.6.27      | 9 de Octubre 2008               |
-| 2.6.28      | 25 de Diciembre 2008            |
-| 2.6.29      | 24 de Marzo 2009                |
-| 2.6.30      | 9 de Junio 2009                 |
-| 2.6.31      | 9 de Septiembre 2009            |
-| 2.6.32      | 3 de Diciembre 2009             |
-| 2.6.33      | 24 de Febrero 2010              |
-| 2.6.34      | 16 de Mayo 2010                 |
-| 2.6.35      | 1 de Agosto 2010                |
-| 2.6.36      | 20 de Octubre 2010              |
-| 2.6.37      | 4 de Enero 2011                 |
-| 2.6.38      | 14 de Marzo 2011                |
-| 2.6.39      | 18 de Mayo 2011                 |
+| **versión** | **Fecha**             |
+| ----------- | --------------------- |
+| **2.0**     | **9 de Junio 1996**   |
+| 2.1         | 30 de Septiembre 1996 |
+| 2.2         | 26 de Enero 1999      |
+| 2.3         | 11 de Mayo 1999       |
+| 2.4         | 4 de Enero 2001       |
+| 2.5         | 23 de Noviembre 2001  |
+| 2.6         | 18 de Diciembre 2003  |
+| 2.6.1       | 9 de Enero 2004       |
+| 2.6.2       | 4 de Febrero 2004     |
+| 2.6.3       | 18 de Febrero 2004    |
+| 2.6.4       | 11 de Marzo 2004      |
+| 2.6.5       | 4 de Abril 2004       |
+| 2.6.6       | 10 de Mayo 2004       |
+| 2.6.7       | 16 de Junio 2004      |
+| 2.6.8       | 14 de Agosto 2004     |
+| 2.6.9       | 19 de Octubre 2004    |
+| 2.6.10      | 24 de Diciembre 2004  |
+| 2.6.11      | 2 de Marzo 2006       |
+| 2.6.12      | 17 de Junio 2005      |
+| 2.6.13      | 29 de Agosto 2005     |
+| 2.6.14      | 27 de Octubre 2005    |
+| 2.6.15      | 3 de Enero 2006       |
+| 2.6.16      | 20 de Marzo 2006      |
+| 2.6.17      | 17 de Junio 2006      |
+| 2.6.18      | 20 de Septiembre 2006 |
+| 2.6.19      | 19 de Noviembre 2006  |
+| 2.6.20      | 5 de Febrero 2007     |
+| 2.6.21      | 26 de Abril 2007      |
+| 2.6.22      | 8 de Julio 2007       |
+| 2.6.23      | 9 de Octubre 2007     |
+| 2.6.24      | 25 de Enero 2008      |
+| 2.6.25      | 16 de Abril 2008      |
+| 2.6.26      | 13 de Julio 2008      |
+| 2.6.27      | 9 de Octubre 2008     |
+| 2.6.28      | 25 de Diciembre 2008  |
+| 2.6.29      | 24 de Marzo 2009      |
+| 2.6.30      | 9 de Junio 2009       |
+| 2.6.31      | 9 de Septiembre 2009  |
+| 2.6.32      | 3 de Diciembre 2009   |
+| 2.6.33      | 24 de Febrero 2010    |
+| 2.6.34      | 16 de Mayo 2010       |
+| 2.6.35      | 1 de Agosto 2010      |
+| 2.6.36      | 20 de Octubre 2010    |
+| 2.6.37      | 4 de Enero 2011       |
+| 2.6.38      | 14 de Marzo 2011      |
+| 2.6.39      | 18 de Mayo 2011       |
 
-Profesionalizacion.
+Madurez
 
 | **Versión** | **Fecha**                       |
 | ----------- | ------------------------------- |
@@ -101,7 +101,7 @@ Profesionalizacion.
 | 3.18        | 7 de Diciembre 2014             |
 | 3.19        | 8 de Febrero 2015               |
 
-Mejoras continuas
+Profesionalizacion.
 
 | **Versión** | **Fecha**            |
 | ----------- | -------------------- |
@@ -127,7 +127,7 @@ Mejoras continuas
 | 4.19        | 22 de Octubre 2018   |
 | 4.20        | 23 de Diciembre 2018 |
 
-la mejoras mas significativas.
+Actualidad
 
 | **Versión** | **Fecha**                   |
 | ----------- | --------------------------- |
