@@ -1,10 +1,26 @@
+---
+ebook:
+  epub:
+    pretty-print: true
+  theme: vue.css
+  title: El kernel linux en el tiempo
+  cover: /cover.jpg
+  author: Adrian
+
+  pdf:
+    paper-size: letter
+    default-font-size: 12
+    header-template: "<span style='color: #6e6e6e;'> _SECTION_ </span>"
+    footer-template: "<span> <center> _PAGENUM_ </center> </span>"
+---
+
+# Prefacio
+...
+
 # Summary
 
 * [Leéme](README.md)
 * [Introducción](Introduccion/Introduccion.md)
 * [Comienzos](Comienzos/README.md)
   * [Kernel 0.01.md](Comienzos/kernel-001md.md)
-  * Kernel 0.11.md
-
-
-
+* [Actualidad](Actualidad/kernel5.2.md)
