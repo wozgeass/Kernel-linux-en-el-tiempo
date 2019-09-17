@@ -5,7 +5,7 @@ ebook:
   theme: vue.css
   title: El kernel linux en el tiempo
   cover: /cover.jpg
-  author: Adrian
+  authors: Adrian
 
   pdf:
     paper-size: letter
