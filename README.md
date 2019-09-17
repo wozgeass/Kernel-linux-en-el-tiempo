@@ -134,5 +134,5 @@ Actualidad
 | **5.0**     | **3 de marzo 2019**         |
 | 5.1         | 5 de mayo de 2019           |
 | 5.2         | 7 de Julio 2019             |
-| **5.3**     | **Mediados de Septiembre** |
+| **5.3**     | **15 de Septiembre 2019**   |
 | **5.4**     | **Por Definir**             |
