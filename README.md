@@ -9,21 +9,20 @@ Así entenderemos como ha sido la evolución del  **kernel** en sus 28 años de 
 Básicamente se trata de una recopilación de las características agregadas a los kernels al pasar de cada versión.
 
 Comienzos
-| **Versión** |            **Fecha**            |
-|:-----------:|:-------------------------------:|
-|  **0.01**   |    **17 de Septiembre 1991**    |
-|     0.2     |        4 de Octubre 1991        |
-|    0.11     |       8 de Diciembre 1991       |
-|    0.95     |         7 de Marzo 1992         |
+| **Versión** |         **Fecha**         |
+| :---------: | :-----------------------: |
+|  **0.01**   | **17 de Septiembre 1991** |
+|     0.2     |     4 de Octubre 1991     |
+|    0.11     |    8 de Diciembre 1991    |
+|    0.95     |      7 de Marzo 1992      |
 
-Inicio de la madures
+Inicio de la Pruebas
 
-| **Versión** | **Fecha**            |
-| ----------- | -------------------- |
-| **1.0**     | **13 de Marzo 1994** |
-| 1.1         | 6 de Abril 1994      |
-| 1.2         | 6 de Abril 1995      |
-| 1.3         | 12 de Junio 1995     |
+| **Versión** |      **Fecha**       |
+| :---------: | :------------------: |
+|   **1.0**   | **13 de Marzo 1994** |
+|     1.1     |   6 de Abril 1994    |  | 1.2 | 6 de Abril 1995 |
+|     1.3     |   12 de Junio 1995   |
 
 Inicio de la madurez
 
@@ -78,28 +77,28 @@ Inicio de la madurez
 
 Madurez
 
-| **Versión** | **Fecha**                       |
-| ----------- | ------------------------------- |
-| **3.0**     | **21 de Julio 2011**            |
-| 3.1         | 24 de Octubre 2011              |
-| 3.2         | 4 de Enero 2012                 |
-| 3.3         | 18 de Marzo 2012                |
-| 3.4         | 20 de Mayo 2012                 |
-| 3.5         | 21 de Julio 2012                |
-| 3.6         | 20 de Mayo 2012                 |
-| 3.7         | 10 de Diciembre 2012            |
-| 3.8         | 18 de Febrero 2013              |
-| 3.9         | 28 de Abril 2013                |
-| 3.10        | 30 de Junio 2013                |
-| 3.11        | 2 de Septiembre 2013            |
-| 3.12        | 2 de Noviembre 2013             |
-| 3.13        | 19 de Enero 2014                |
-| 3.14        | 30 de Marzo 2014                |
-| 3.15        | 8 de Junio 2014                 |
-| 3.16        | 3 de Agosto 2014                |
-| 3.17        | 5 de Octubre 2014               |
-| 3.18        | 7 de Diciembre 2014             |
-| 3.19        | 8 de Febrero 2015               |
+| **Versión** | **Fecha**            |
+| ----------- | -------------------- |
+| **3.0**     | **21 de Julio 2011** |
+| 3.1         | 24 de Octubre 2011   |
+| 3.2         | 4 de Enero 2012      |
+| 3.3         | 18 de Marzo 2012     |
+| 3.4         | 20 de Mayo 2012      |
+| 3.5         | 21 de Julio 2012     |
+| 3.6         | 20 de Mayo 2012      |
+| 3.7         | 10 de Diciembre 2012 |
+| 3.8         | 18 de Febrero 2013   |
+| 3.9         | 28 de Abril 2013     |
+| 3.10        | 30 de Junio 2013     |
+| 3.11        | 2 de Septiembre 2013 |
+| 3.12        | 2 de Noviembre 2013  |
+| 3.13        | 19 de Enero 2014     |
+| 3.14        | 30 de Marzo 2014     |
+| 3.15        | 8 de Junio 2014      |
+| 3.16        | 3 de Agosto 2014     |
+| 3.17        | 5 de Octubre 2014    |
+| 3.18        | 7 de Diciembre 2014  |
+| 3.19        | 8 de Febrero 2015    |
 
 Profesionalizacion.
 
@@ -129,10 +128,13 @@ Profesionalizacion.
 
 Actualidad
 
-| **Versión** | **Fecha**                   |
-| ----------- | --------------------------- |
-| **5.0**     | **3 de marzo 2019**         |
-| 5.1         | 5 de mayo de 2019           |
-| 5.2         | 7 de Julio 2019             |
-| **5.3**     | **15 de Septiembre 2019**   |
-| **5.4**     | **Por Definir**             |
+| **Versión** | **Fecha**                |
+| ----------- | ------------------------ |
+| **5.0**     | **3 de marzo 2019**      |
+| 5.1         | 5 de mayo 2019           |
+| 5.2         | 7 de Julio 2019          |
+| 5.3     | 15 de Septiembre 2019    |
+| 5.4     | 24 de Noviembre 2019 |
+| 5.5     | 26 de Enero 2020     |
+| **5.6**     | **29 de Marzo 2020**          |
+|  **5.7**    |  **Junio 2020**    |

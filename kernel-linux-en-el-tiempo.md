@@ -2,7 +2,7 @@
 ebook:
   epub:
     pretty-print: true
-  theme: vue.css
+  theme: hopscotch.css
   title: El kernel linux en el tiempo
   cover: /cover.jpg
   authors: Adrian
