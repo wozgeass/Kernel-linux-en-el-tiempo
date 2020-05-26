@@ -128,13 +128,13 @@ Profesionalizacion.
 
 Actualidad
 
-| **Versión** | **Fecha**                |
-| ----------- | ------------------------ |
-| **5.0**     | **3 de marzo 2019**      |
-| 5.1         | 5 de mayo 2019           |
-| 5.2         | 7 de Julio 2019          |
-| 5.3     | 15 de Septiembre 2019    |
-| 5.4     | 24 de Noviembre 2019 |
-| 5.5     | 26 de Enero 2020     |
-| **5.6**     | **29 de Marzo 2020**          |
-|  **5.7**    |  **Junio 2020**    |
+| **Versión** | **Fecha**             |
+| ----------- | --------------------- |
+| **5.0**     | **3 de marzo 2019**   |
+| 5.1         | 5 de mayo 2019        |
+| 5.2         | 7 de Julio 2019       |
+| 5.3         | 15 de Septiembre 2019 |
+| 5.4         | 24 de Noviembre 2019  |
+| 5.5         | 26 de Enero 2020      |
+| **5.6**     | **29 de Marzo 2020**  |
+| **5.7**     | **Junio 2020**        |
